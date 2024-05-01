@@ -7,8 +7,9 @@
 This is the official code repository for the following reference:
 
 Robert K. A. Bennett, Lauren Hoang, Connor Cremers, Andrew J. Mannix, and Eric 
-Pop. "Extracting Mobility and Threshold Voltage in Contact-Gated-Transistors."
-arXiv preprint (2024). DOI: . 
+Pop. "Mobility and Threshold Voltage Extraction in Transistors with 
+Gate-Voltage-Dependent Contact Resistance." arXiv preprint (2024). 
+Available at https://arxiv.org/abs/2404.19022?context=physics.app-ph.
 
 A pdf copy of this preprint is also included in the repository.
 

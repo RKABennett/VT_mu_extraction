@@ -27,7 +27,10 @@
 ###############################################################################
 #
 # Please cite the following reference:
-# [ADD CITATION HERE]
+# Robert K. A. Bennett, Lauren Hoang, Connor Cremers, Andrew J. Mannix, and 
+# Eric Pop. "Mobility and Threshold Voltage Extraction in Transistors with 
+# Gate-Voltage-Dependent Contact Resistance." arXiv preprint (2024). 
+# Available at https://arxiv.org/abs/2404.19022?context=physics.app-ph.
 #
 ###############################################################################
 
